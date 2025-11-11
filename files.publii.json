@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "79ff87bc9ddded4ba35139c82c56c339"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "f7cede46a07d4e13238025c4ff06c81c"
+    },
+    {
+        "path": "best-quran-academy-a-modern-path-to-learning-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-a-modern-path-to-learning-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "3a12b4a8f72ae0ebba31f5847b645ccc"
+    },
+    {
+        "path": "best-quran-academy-empowering-every-muslim-to-learn-recite-and-live-the-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-empowering-every-muslim-to-learn-recite-and-live-the-quran/index.html",
+        "type": "file",
+        "md5": "38a44b7f82e0f368070731933d6b212a"
+    },
+    {
+        "path": "best-quran-academy-your-trusted-partner-in-learning-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-your-trusted-partner-in-learning-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "05288e5ddc86465476baf1c4e6d32c4e"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "8dc7f35eff2eb6cb8e65d2cffe847e89"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "afd4d0bfca7fff07b1107bfde28b232e"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "7af9abf58e34f816b987bd2ad5496590"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/images.jfif",
+        "type": "file",
+        "md5": "11c4c68a4a3fbee47c0595a957fed3bb"
+    },
+    {
+        "path": "recite-quran-online-connecting-hearts-through-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recite-quran-online-connecting-hearts-through-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "cfe4c912b59e7e93f375fb001e0267b6"
+    },
+    {
+        "path": "recite-quran-online-learn-the-words-of-allah-anytime-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recite-quran-online-learn-the-words-of-allah-anytime-anywhere/index.html",
+        "type": "file",
+        "md5": "636d7992c1504b12cb687f9e0fa14a5c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "14f356622e85830c1ecaaa9b1d12c23a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "be3c5d9a44f840ba3a704305b93cdc0e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0b97c9bcc41640b996c6aadc28a45af3"
+    }
+]

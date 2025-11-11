@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lively-hotteok-3e23c4.netlify.app/sitemap.xml
